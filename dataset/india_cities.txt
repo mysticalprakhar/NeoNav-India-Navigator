@@ -1,0 +1,10 @@
+0 Delhi
+1 Mumbai
+2 Bengaluru
+3 Hyderabad
+4 Chennai
+5 Kolkata
+6 Jaipur
+7 Ahmedabad
+8 Pune
+9 Bhopal
